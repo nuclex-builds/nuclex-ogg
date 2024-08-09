@@ -1,0 +1,4 @@
+[submodule "build"]
+	path = build
+	url = http://devops.home/git/xiph/ogg.git
+	branch = master
