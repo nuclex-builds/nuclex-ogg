@@ -20,19 +20,19 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="build\src\bitwise.c">
-      <Filter>Source</Filter>
-    </ClCompile>
-    <ClCompile Include="build\src\framing.c">
-      <Filter>Source</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
     <ClInclude Include="build\include\ogg\ogg.h">
       <Filter>Include</Filter>
     </ClInclude>
     <ClInclude Include="build\include\ogg\os_types.h">
       <Filter>Include</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="build\src\bitwise.c">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="build\src\framing.c">
+      <Filter>Source</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
